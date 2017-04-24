@@ -27,5 +27,10 @@
   "bugs": {
     "url": "https://github.com/agm1984/Graph-API-Boilerplate/issues"
   },
-  "homepage": "https://github.com/agm1984/Graph-API-Boilerplate#readme"
+  "homepage": "https://github.com/agm1984/Graph-API-Boilerplate#readme",
+  "dependencies": {
+    "graphql": "^0.9.3",
+    "graphql-server-hapi": "^0.7.2",
+    "neo4j": "^2.0.0-RC2"
+  }
 }
