@@ -1,0 +1,31 @@
+{
+  "name": "graph-api-boilerplate",
+  "version": "0.0.1",
+  "description": "ES6+ Hapi Server with GraphQL, Neo4j, Babel, ES Lint, and Node Modules: async, lodash, dataloader",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agm1984/Graph-API-Boilerplate.git"
+  },
+  "keywords": [
+    "ES6",
+    "ES7",
+    "Hapi",
+    "GraphQL",
+    "Neo4j",
+    "Babel",
+    "ESLint",
+    "async",
+    "lodash",
+    "dataloader"
+  ],
+  "author": "Adam Mackintosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agm1984/Graph-API-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/agm1984/Graph-API-Boilerplate#readme"
+}
